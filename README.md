@@ -27,4 +27,4 @@
 `make && ./minishell`
 
 ## Contact
-Created by [Teriuihi](https://github.com/Teriuihi) && [bmajor]https://github.com/alexdrumi
+Created together with[Teriuihi](https://github.com/Teriuihi)
