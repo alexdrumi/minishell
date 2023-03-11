@@ -27,4 +27,4 @@
 `make && ./minishell`
 
 ## Contact
-Created together with[Teriuihi](https://github.com/Teriuihi)
+Created together with [Teriuihi](https://github.com/Teriuihi)
