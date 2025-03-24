@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/alexdrumi/webserv">
+  <a href="https://github.com/alexdrumi/minishell">
     <img src="assets/shell.jpg" alt="Shell logo" width="550" height="250">
   </a>
 </div>
