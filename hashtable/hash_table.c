@@ -56,10 +56,8 @@ static t_entry	*overwrite_if_exists_else_get_last(t_entry *entry,
 					t_bool is_exported, char *key, char *val)
 {
 	t_entry	*prev;
-	int		i;
 
 	prev = NULL;
-	i = 0;
 	while (entry != NULL)
 	{
 		if (ft_strlen(entry->key) == ft_strlen(key)
@@ -74,7 +72,6 @@ static t_entry	*overwrite_if_exists_else_get_last(t_entry *entry,
 		}
 		prev = entry;
 		entry = prev->next;
-		i++;
 	}
 	return (prev);
 }
