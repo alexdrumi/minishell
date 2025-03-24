@@ -34,5 +34,14 @@ This project is part of a learning experience aimed at reproducing key features 
 - **Exit Status Variable**: `$?` is available to show the exit status of the last command.
 
 ## Usage
-```bash
-make && ./minishell
+
+
+5. **Download the repository:**
+   ```bash
+   git clone git@github.com:alexdrumi/minishell.git
+   cd minishell
+  
+6. **Compile and run the executable:**
+   ```bash
+   make && ./minishell
+
